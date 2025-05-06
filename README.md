@@ -18,7 +18,7 @@ This project is an IoT-based smart blind and ventilation control system develope
 ## How to use this project?
 - Download this project as zip
 - Unzip the zipped file and open the project with Arduino IDE or PlatformIO
-- Upload the code to your ESP32 board
+- Upload the code to your ESP32 board (The project is divided into three components, each stored in a separate folder. You will need to upload the code from each folder to a different ESP32 board accordingly)
 - Use Blynk Web version for remote control and data display
 - **Notice**: The Blynk settings may vary and please create your own Blynk interface, this project can provide you with some ideas.
 
