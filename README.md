@@ -20,7 +20,7 @@ This project is an IoT-based smart blind and ventilation control system develope
 - Unzip the zipped file and open the project with Arduino IDE or PlatformIO
 - Upload the code to your ESP32 board
 - Use Blynk Web version for remote control and data display
-**Notice: The Blynk settings may vary and please create your own Blynk interface, this project can provide you with some ideas.
+- **Notice**: The Blynk settings may vary and please create your own Blynk interface, this project can provide you with some ideas.
 
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
